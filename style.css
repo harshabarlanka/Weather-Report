@@ -6,6 +6,9 @@
 }
 body {
   background: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .card {
   width: 90%;
@@ -15,6 +18,7 @@ body {
   margin: 100px, auto, 0;
   border-radius: 20px;
   padding: 40px 35px;
+  margin-top: 80px;
   text-align: center;
 }
 .search {
